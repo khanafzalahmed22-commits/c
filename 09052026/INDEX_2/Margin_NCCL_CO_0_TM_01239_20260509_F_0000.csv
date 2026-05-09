@@ -1,0 +1,11 @@
+Sgmt,Src,RptgDt,BizDt,TradRegnOrgn,Lvl,ClrMmbId,BrkrOrCtdnPtcptId,ClntTp,ClntId,ISIN,TckrSymb,SttlmTp,SctiesSttlmTxId,SctySrs,FinInstrmId,FinInstrmTp,XpryDt,StrkPric,OptnTp,ValAtRskMrgn,SPANMrgn,LossMrgn,PrmAmt,CnsltdCrstllsdOblgtnMrg,DlvrySttlmtMrgn,SpclMrgn,SpclCshMrgn,TndrMrgn,AddtlMrgn,MrkToMktNetd,MinMrgn,SPANMrgnMin,XtrmLossMrgnMin,AggtPeakLbltyRptd,EndOfDayRqrmntRptd,TtlMrgnAsPerActlParams,TtlBuyTradgVol,TtlBuyTrfVal,TtlSellTradgVol,TtlSellTrfVal,NetOpnQty,NetOpnVal,CncntrtnMrgn,DvlmntMrgn,CrossMrgnBnftForSPAN,CrossMrgnBnftForELM,Rmks,Rsvd1,Rsvd2,Rsvd3,Rsvd4
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51053,01239,P,01239,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51053,01239,C,RELIANCE,,,,,,,,,,,,740880,61740,0,-161750,0,,0,0,0,86000,,751200,62600,813800,813800,964370,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51053,01239,C,WXW16091,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51053,01239,C,WXW34225,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51053,01239,C,WXW39137,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51053,01239,C,WXW40448,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51053,01239,C,WXW65001,,,,,,,,,,,,1224958,120556,0,0,0,,0,0,0,49650,,1239586,121919.5,1361505.5,1361505.5,1345514,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51053,01239,C,WXW65790,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51053,01239,C,WXW66512,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51053,01239,C,WXW69310,,,,,,,,,,,,60320467.13,4896500,0,0,0,,0,0,0,-1332100,,62001852.52,4883179,66885031.52,68217131.52,65216967.13,,,,,,,0,0,,,,,,,

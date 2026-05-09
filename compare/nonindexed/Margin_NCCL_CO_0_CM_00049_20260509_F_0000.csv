@@ -1,0 +1,7 @@
+CO,NCCL,2026-05-09,2026-05-09,1,P,M50048,00049,C,BBB1,,,,,,,,,,,,219800,22970,0,-1200,0,,0,0,11546,-4900,,219800,22970,223433.5,259216,255516,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M50048,00049,C,BBB2,,,,,,,,,,,,478100,33890.5,-127300,0,0,,0,0,4352,7600,,350800,33890.5,384690.5,389042.5,389042.5,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M50048,00049,C,BBB3,,,,,,,,,,,,28088,6468.5,0,0,0,,0,0,0,-9000,,28088,6468.5,34556.5,43556.5,34556.5,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M50048,00049,C,BBB4,,,,,,,,,,,,0,2155,127250,0,0,,0,0,0,5500,,127250,2155,129405,155213.75,155213.75,,,,,,,0,25808.75,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M50048,00049,C,BBB5,,,,,,,,,,,,60352,5745.5,0,0,0,,0,0,7194,800,,60352,5745.5,66097.5,73291.5,73291.5,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M50048,NCDXADA02,P,NCDXADA02,,,,,,,,,,,,21549.99,2155,50,0,0,,0,0,0,0,,21600,2155,23755,23755,23754.99,,,,,,,0,0,,,,,,,
+Sgmt,Src,RptgDt,BizDt,TradRegnOrgn,Lvl,ClrMmbId,BrkrOrCtdnPtcptId,ClntTp,ClntId,ISIN,TckrSymb,SttlmTp,SctiesSttlmTxId,SctySrs,FinInstrmId,FinInstrmTp,XpryDt,StrkPric,OptnTp,ValAtRskMrgn,SPANMrgn,LossMrgn,PrmAmt,CnsltdCrstllsdOblgtnMrg,DlvrySttlmtMrgn,SpclMrgn,SpclCshMrgn,TndrMrgn,AddtlMrgn,MrkToMktNetd,MinMrgn,SPANMrgnMin,XtrmLossMrgnMin,AggtPeakLbltyRptd,EndOfDayRqrmntRptd,TtlMrgnAsPerActlParams,TtlBuyTradgVol,TtlBuyTrfVal,TtlSellTradgVol,TtlSellTrfVal,NetOpnQty,NetOpnVal,CncntrtnMrgn,DvlmntMrgn,CrossMrgnBnftForSPAN,CrossMrgnBnftForELM,Rmks,Rsvd1,Rsvd2,Rsvd3,Rsvd4

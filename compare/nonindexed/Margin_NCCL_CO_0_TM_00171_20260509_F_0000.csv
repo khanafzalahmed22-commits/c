@@ -1,0 +1,11 @@
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51085,00171,C,AHPH005,,,,,,,,,,,,83088,6924,0,0,0,,0,0,0,0,,83088,6924,90012,90012,90012,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51085,00171,C,AHPH032,,,,,,,,,,,,83088,6924,0,0,0,,0,0,0,0,,83088,6924,90012,90012,90012,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51085,00171,C,AHTP003,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51085,00171,C,AHTP1895,,,,,,,,,,,,9587654,895130.5,0,0,0,,0,0,0,0,,9587654,895130.5,10482784.5,10482784.5,10482784.5,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51085,00171,C,AHTP1982,,,,,,,,,,,,450720,37560,0,0,0,,0,0,0,0,,450720,37560,488280,488280,488280,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51085,00171,C,AHTP1983,,,,,,,,,,,,450720,37560,0,0,0,,0,0,0,0,,450720,37560,488280,488280,488280,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51085,00171,C,P178,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51085,00171,C,S209,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,,,,,,,0,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51085,00171,C,T23,,,,,,,,,,,,105592977.23,9224411.5,0,0,0,,0,0,0,0,,106519344.41,9224411.5,0,120533416.51,119607049.33,,,,,,,4789660.6,0,,,,,,,
+CO,NCCL,2026-05-09,2026-05-09,1,P,M51085,00171,P,00171,,,,,,,,,,,,0,0,0,0,0,,0,0,0,0,,0,0,0,0,0,,,,,,,0,0,,,,,,,
+Sgmt,Src,RptgDt,BizDt,TradRegnOrgn,Lvl,ClrMmbId,BrkrOrCtdnPtcptId,ClntTp,ClntId,ISIN,TckrSymb,SttlmTp,SctiesSttlmTxId,SctySrs,FinInstrmId,FinInstrmTp,XpryDt,StrkPric,OptnTp,ValAtRskMrgn,SPANMrgn,LossMrgn,PrmAmt,CnsltdCrstllsdOblgtnMrg,DlvrySttlmtMrgn,SpclMrgn,SpclCshMrgn,TndrMrgn,AddtlMrgn,MrkToMktNetd,MinMrgn,SPANMrgnMin,XtrmLossMrgnMin,AggtPeakLbltyRptd,EndOfDayRqrmntRptd,TtlMrgnAsPerActlParams,TtlBuyTradgVol,TtlBuyTrfVal,TtlSellTradgVol,TtlSellTrfVal,NetOpnQty,NetOpnVal,CncntrtnMrgn,DvlmntMrgn,CrossMrgnBnftForSPAN,CrossMrgnBnftForELM,Rmks,Rsvd1,Rsvd2,Rsvd3,Rsvd4

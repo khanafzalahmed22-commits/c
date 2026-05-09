@@ -1,0 +1,3564 @@
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00002_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00011_20260509_F_0000.csv
+NonIndexed Size : 20325 bytes
+Indexed Size    : 25106 bytes
+Difference       : -4781 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00012_20260509_F_0000.csv
+NonIndexed Size : 1541 bytes
+Indexed Size    : 6062 bytes
+Difference       : -4521 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00015_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00016_20260509_F_0000.csv
+NonIndexed Size : 1147 bytes
+Indexed Size    : 1261 bytes
+Difference       : -114 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00021_20260509_F_0000.csv
+NonIndexed Size : 33155 bytes
+Indexed Size    : 87360 bytes
+Difference       : -54205 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00031_20260509_F_0000.csv
+NonIndexed Size : 872 bytes
+Indexed Size    : 1098 bytes
+Difference       : -226 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00039_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00046_20260509_F_0000.csv
+NonIndexed Size : 685 bytes
+Indexed Size    : 1024 bytes
+Difference       : -339 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00049_20260509_F_0000.csv
+NonIndexed Size : 1516 bytes
+Indexed Size    : 1871 bytes
+Difference       : -355 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00055_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00071_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 806 bytes
+Difference       : -234 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00079_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00109_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00146_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00147_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 1048 bytes
+Difference       : -476 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00155_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 1532 bytes
+Difference       : -960 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00158_20260509_F_0000.csv
+NonIndexed Size : 956 bytes
+Indexed Size    : 2104 bytes
+Difference       : -1148 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00159_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00170_20260509_F_0000.csv
+NonIndexed Size : 770 bytes
+Indexed Size    : 1000 bytes
+Difference       : -230 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00210_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00220_20260509_F_0000.csv
+NonIndexed Size : 144258 bytes
+Indexed Size    : 543914 bytes
+Difference       : -399656 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00264_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00298_20260509_F_0000.csv
+NonIndexed Size : 685 bytes
+Indexed Size    : 3620 bytes
+Difference       : -2935 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00332_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00348_20260509_F_0000.csv
+NonIndexed Size : 1644 bytes
+Indexed Size    : 2214 bytes
+Difference       : -570 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00360_20260509_F_0000.csv
+NonIndexed Size : 1388 bytes
+Indexed Size    : 1725 bytes
+Difference       : -337 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00362_20260509_F_0000.csv
+NonIndexed Size : 1580 bytes
+Indexed Size    : 1694 bytes
+Difference       : -114 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00366_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00374_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00376_20260509_F_0000.csv
+NonIndexed Size : 4118 bytes
+Indexed Size    : 11847 bytes
+Difference       : -7729 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00384_20260509_F_0000.csv
+NonIndexed Size : 1105 bytes
+Indexed Size    : 1549 bytes
+Difference       : -444 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00397_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00457_20260509_F_0000.csv
+NonIndexed Size : 753 bytes
+Indexed Size    : 874 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00471_20260509_F_0000.csv
+NonIndexed Size : 33226 bytes
+Indexed Size    : 67271 bytes
+Difference       : -34045 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00493_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00523_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00533_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00534_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00545_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00647_20260509_F_0000.csv
+NonIndexed Size : 18484 bytes
+Indexed Size    : 88087 bytes
+Difference       : -69603 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00690_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00738_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00825_20260509_F_0000.csv
+NonIndexed Size : 1266 bytes
+Indexed Size    : 1714 bytes
+Difference       : -448 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00844_20260509_F_0000.csv
+NonIndexed Size : 18613 bytes
+Indexed Size    : 45112 bytes
+Difference       : -26499 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00849_20260509_F_0000.csv
+NonIndexed Size : 938 bytes
+Indexed Size    : 1282 bytes
+Difference       : -344 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00856_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00908_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_00920_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01068_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01152_20260509_F_0000.csv
+NonIndexed Size : 2016 bytes
+Indexed Size    : 3276 bytes
+Difference       : -1260 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01154_20260509_F_0000.csv
+NonIndexed Size : 849 bytes
+Indexed Size    : 1073 bytes
+Difference       : -224 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01159_20260509_F_0000.csv
+NonIndexed Size : 750 bytes
+Indexed Size    : 863 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01208_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01235_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 806 bytes
+Difference       : -234 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01238_20260509_F_0000.csv
+NonIndexed Size : 3814 bytes
+Indexed Size    : 19415 bytes
+Difference       : -15601 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01239_20260509_F_0000.csv
+NonIndexed Size : 1300 bytes
+Indexed Size    : 1880 bytes
+Difference       : -580 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01240_20260509_F_0000.csv
+NonIndexed Size : 91705 bytes
+Indexed Size    : 1503203 bytes
+Difference       : -1411498 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01243_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 11406 bytes
+Difference       : -10834 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01244_20260509_F_0000.csv
+NonIndexed Size : 12513 bytes
+Indexed Size    : 28360 bytes
+Difference       : -15847 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01245_20260509_F_0000.csv
+NonIndexed Size : 754 bytes
+Indexed Size    : 753 bytes
+Difference       : 1 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01249_20260509_F_0000.csv
+NonIndexed Size : 38875 bytes
+Indexed Size    : 97338 bytes
+Difference       : -58463 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01252_20260509_F_0000.csv
+NonIndexed Size : 32736 bytes
+Indexed Size    : 68787 bytes
+Difference       : -36051 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01255_20260509_F_0000.csv
+NonIndexed Size : 6181 bytes
+Indexed Size    : 9991 bytes
+Difference       : -3810 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01256_20260509_F_0000.csv
+NonIndexed Size : 1650 bytes
+Indexed Size    : 2330 bytes
+Difference       : -680 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01261_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01262_20260509_F_0000.csv
+NonIndexed Size : 16846 bytes
+Indexed Size    : 64897 bytes
+Difference       : -48051 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01265_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01266_20260509_F_0000.csv
+NonIndexed Size : 800 bytes
+Indexed Size    : 916 bytes
+Difference       : -116 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01268_20260509_F_0000.csv
+NonIndexed Size : 29821 bytes
+Indexed Size    : 232637 bytes
+Difference       : -202816 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01274_20260509_F_0000.csv
+NonIndexed Size : 4524 bytes
+Indexed Size    : 6973 bytes
+Difference       : -2449 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01275_20260509_F_0000.csv
+NonIndexed Size : 5623 bytes
+Indexed Size    : 8767 bytes
+Difference       : -3144 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01276_20260509_F_0000.csv
+NonIndexed Size : 22987 bytes
+Indexed Size    : 730531 bytes
+Difference       : -707544 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01277_20260509_F_0000.csv
+NonIndexed Size : 11571 bytes
+Indexed Size    : 25208 bytes
+Difference       : -13637 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01279_20260509_F_0000.csv
+NonIndexed Size : 45594 bytes
+Indexed Size    : 977544 bytes
+Difference       : -931950 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01280_20260509_F_0000.csv
+NonIndexed Size : 23975 bytes
+Indexed Size    : 55311 bytes
+Difference       : -31336 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01281_20260509_F_0000.csv
+NonIndexed Size : 1350 bytes
+Indexed Size    : 1580 bytes
+Difference       : -230 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01282_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01286_20260509_F_0000.csv
+NonIndexed Size : 810 bytes
+Indexed Size    : 1714 bytes
+Difference       : -904 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01287_20260509_F_0000.csv
+NonIndexed Size : 77544 bytes
+Indexed Size    : 174914 bytes
+Difference       : -97370 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01290_20260509_F_0000.csv
+NonIndexed Size : 839 bytes
+Indexed Size    : 953 bytes
+Difference       : -114 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01291_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01292_20260509_F_0000.csv
+NonIndexed Size : 3746 bytes
+Indexed Size    : 9428 bytes
+Difference       : -5682 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01293_20260509_F_0000.csv
+NonIndexed Size : 2567 bytes
+Indexed Size    : 3936 bytes
+Difference       : -1369 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01295_20260509_F_0000.csv
+NonIndexed Size : 1694 bytes
+Indexed Size    : 3953 bytes
+Difference       : -2259 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01296_20260509_F_0000.csv
+NonIndexed Size : 4786 bytes
+Indexed Size    : 21494 bytes
+Difference       : -16708 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01297_20260509_F_0000.csv
+NonIndexed Size : 4616 bytes
+Indexed Size    : 6435 bytes
+Difference       : -1819 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01302_20260509_F_0000.csv
+NonIndexed Size : 1242 bytes
+Indexed Size    : 1356 bytes
+Difference       : -114 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01305_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01307_20260509_F_0000.csv
+NonIndexed Size : 6444 bytes
+Indexed Size    : 249858 bytes
+Difference       : -243414 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01308_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01309_20260509_F_0000.csv
+NonIndexed Size : 11653 bytes
+Indexed Size    : 34193 bytes
+Difference       : -22540 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01310_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01312_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01315_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01317_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_CM_01318_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00002_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00008_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00011_20260509_F_0000.csv
+NonIndexed Size : 20325 bytes
+Indexed Size    : 25106 bytes
+Difference       : -4781 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00015_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00016_20260509_F_0000.csv
+NonIndexed Size : 1147 bytes
+Indexed Size    : 1261 bytes
+Difference       : -114 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00021_20260509_F_0000.csv
+NonIndexed Size : 26116 bytes
+Indexed Size    : 73937 bytes
+Difference       : -47821 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00024_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00031_20260509_F_0000.csv
+NonIndexed Size : 872 bytes
+Indexed Size    : 1098 bytes
+Difference       : -226 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00039_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00049_20260509_F_0000.csv
+NonIndexed Size : 1362 bytes
+Indexed Size    : 1475 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00055_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00067_20260509_F_0000.csv
+NonIndexed Size : 12240 bytes
+Indexed Size    : 29888 bytes
+Difference       : -17648 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00068_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 1137 bytes
+Difference       : -565 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00071_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00078_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00079_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00080_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00092_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00094_20260509_F_0000.csv
+NonIndexed Size : 3810 bytes
+Indexed Size    : 11883 bytes
+Difference       : -8073 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00109_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00130_20260509_F_0000.csv
+NonIndexed Size : 1104 bytes
+Indexed Size    : 1330 bytes
+Difference       : -226 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00135_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00142_20260509_F_0000.csv
+NonIndexed Size : 2790 bytes
+Indexed Size    : 4700 bytes
+Difference       : -1910 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00146_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00147_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00150_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00155_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00158_20260509_F_0000.csv
+NonIndexed Size : 956 bytes
+Indexed Size    : 2104 bytes
+Difference       : -1148 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00159_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00168_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00170_20260509_F_0000.csv
+NonIndexed Size : 770 bytes
+Indexed Size    : 1000 bytes
+Difference       : -230 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00171_20260509_F_0000.csv
+NonIndexed Size : 1952 bytes
+Indexed Size    : 4247 bytes
+Difference       : -2295 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00189_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00191_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00210_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00220_20260509_F_0000.csv
+NonIndexed Size : 144258 bytes
+Indexed Size    : 543914 bytes
+Difference       : -399656 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00221_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00236_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00258_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00264_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00279_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00285_20260509_F_0000.csv
+NonIndexed Size : 733 bytes
+Indexed Size    : 1517 bytes
+Difference       : -784 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00298_20260509_F_0000.csv
+NonIndexed Size : 685 bytes
+Indexed Size    : 3620 bytes
+Difference       : -2935 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00306_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00316_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00332_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00333_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00335_20260509_F_0000.csv
+NonIndexed Size : 1802 bytes
+Indexed Size    : 3039 bytes
+Difference       : -1237 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00348_20260509_F_0000.csv
+NonIndexed Size : 1644 bytes
+Indexed Size    : 2214 bytes
+Difference       : -570 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00358_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00360_20260509_F_0000.csv
+NonIndexed Size : 1388 bytes
+Indexed Size    : 1725 bytes
+Difference       : -337 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00362_20260509_F_0000.csv
+NonIndexed Size : 1580 bytes
+Indexed Size    : 1694 bytes
+Difference       : -114 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00366_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00374_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00376_20260509_F_0000.csv
+NonIndexed Size : 4118 bytes
+Indexed Size    : 11847 bytes
+Difference       : -7729 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00384_20260509_F_0000.csv
+NonIndexed Size : 1105 bytes
+Indexed Size    : 1549 bytes
+Difference       : -444 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00397_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00441_20260509_F_0000.csv
+NonIndexed Size : 725 bytes
+Indexed Size    : 953 bytes
+Difference       : -228 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00448_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00452_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00470_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00471_20260509_F_0000.csv
+NonIndexed Size : 33226 bytes
+Indexed Size    : 67271 bytes
+Difference       : -34045 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00485_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00487_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00488_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00493_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00494_20260509_F_0000.csv
+NonIndexed Size : 946 bytes
+Indexed Size    : 1860 bytes
+Difference       : -914 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00523_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00533_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00534_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00536_20260509_F_0000.csv
+NonIndexed Size : 1107 bytes
+Indexed Size    : 1892 bytes
+Difference       : -785 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00545_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00547_20260509_F_0000.csv
+NonIndexed Size : 844 bytes
+Indexed Size    : 1754 bytes
+Difference       : -910 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00575_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00598_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00622_20260509_F_0000.csv
+NonIndexed Size : 1598 bytes
+Indexed Size    : 2160 bytes
+Difference       : -562 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00636_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00647_20260509_F_0000.csv
+NonIndexed Size : 18484 bytes
+Indexed Size    : 88087 bytes
+Difference       : -69603 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00657_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00680_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00690_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00712_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00738_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00784_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00785_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00825_20260509_F_0000.csv
+NonIndexed Size : 1266 bytes
+Indexed Size    : 1714 bytes
+Difference       : -448 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00834_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00844_20260509_F_0000.csv
+NonIndexed Size : 18613 bytes
+Indexed Size    : 45112 bytes
+Difference       : -26499 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00849_20260509_F_0000.csv
+NonIndexed Size : 938 bytes
+Indexed Size    : 1282 bytes
+Difference       : -344 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00856_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00893_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00902_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00908_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00920_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00921_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00922_20260509_F_0000.csv
+NonIndexed Size : 685 bytes
+Indexed Size    : 1027 bytes
+Difference       : -342 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00951_20260509_F_0000.csv
+NonIndexed Size : 3232 bytes
+Indexed Size    : 10913 bytes
+Difference       : -7681 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00967_20260509_F_0000.csv
+NonIndexed Size : 1368 bytes
+Indexed Size    : 1708 bytes
+Difference       : -340 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00968_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_00980_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01002_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 800 bytes
+Difference       : -228 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01006_20260509_F_0000.csv
+NonIndexed Size : 11488 bytes
+Indexed Size    : 25340 bytes
+Difference       : -13852 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01007_20260509_F_0000.csv
+NonIndexed Size : 9471 bytes
+Indexed Size    : 20783 bytes
+Difference       : -11312 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01020_20260509_F_0000.csv
+NonIndexed Size : 685 bytes
+Indexed Size    : 797 bytes
+Difference       : -112 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01030_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01043_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01052_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01060_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01062_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01068_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01085_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01108_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01148_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01149_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01152_20260509_F_0000.csv
+NonIndexed Size : 2016 bytes
+Indexed Size    : 3276 bytes
+Difference       : -1260 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01153_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01154_20260509_F_0000.csv
+NonIndexed Size : 849 bytes
+Indexed Size    : 1073 bytes
+Difference       : -224 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01159_20260509_F_0000.csv
+NonIndexed Size : 750 bytes
+Indexed Size    : 863 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01208_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01233_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01235_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01238_20260509_F_0000.csv
+NonIndexed Size : 3814 bytes
+Indexed Size    : 19415 bytes
+Difference       : -15601 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01239_20260509_F_0000.csv
+NonIndexed Size : 1300 bytes
+Indexed Size    : 1880 bytes
+Difference       : -580 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01240_20260509_F_0000.csv
+NonIndexed Size : 91705 bytes
+Indexed Size    : 1503203 bytes
+Difference       : -1411498 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01241_20260509_F_0000.csv
+NonIndexed Size : 9108 bytes
+Indexed Size    : 23881 bytes
+Difference       : -14773 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01243_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 11406 bytes
+Difference       : -10834 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01245_20260509_F_0000.csv
+NonIndexed Size : 754 bytes
+Indexed Size    : 753 bytes
+Difference       : 1 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01246_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01249_20260509_F_0000.csv
+NonIndexed Size : 38875 bytes
+Indexed Size    : 97338 bytes
+Difference       : -58463 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_0124ALP01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_0124NEO01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_0124PAC01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_0124PER01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_0124PLU01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_0124TAT02_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_0124TAT03_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_0124TAT04_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01252_20260509_F_0000.csv
+NonIndexed Size : 32736 bytes
+Indexed Size    : 68666 bytes
+Difference       : -35930 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01253_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01255_20260509_F_0000.csv
+NonIndexed Size : 6181 bytes
+Indexed Size    : 9628 bytes
+Difference       : -3447 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01256_20260509_F_0000.csv
+NonIndexed Size : 1650 bytes
+Indexed Size    : 2330 bytes
+Difference       : -680 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01259_20260509_F_0000.csv
+NonIndexed Size : 685 bytes
+Indexed Size    : 7516 bytes
+Difference       : -6831 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01261_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01262_20260509_F_0000.csv
+NonIndexed Size : 16846 bytes
+Indexed Size    : 64655 bytes
+Difference       : -47809 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01265_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01266_20260509_F_0000.csv
+NonIndexed Size : 800 bytes
+Indexed Size    : 916 bytes
+Difference       : -116 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01267_20260509_F_0000.csv
+NonIndexed Size : 13643 bytes
+Indexed Size    : 26457 bytes
+Difference       : -12814 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01268_20260509_F_0000.csv
+NonIndexed Size : 29466 bytes
+Indexed Size    : 232282 bytes
+Difference       : -202816 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01269_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01270_20260509_F_0000.csv
+NonIndexed Size : 1964 bytes
+Indexed Size    : 2074 bytes
+Difference       : -110 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01271_20260509_F_0000.csv
+NonIndexed Size : 2161 bytes
+Indexed Size    : 3635 bytes
+Difference       : -1474 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01272_20260509_F_0000.csv
+NonIndexed Size : 3610 bytes
+Indexed Size    : 8592 bytes
+Difference       : -4982 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01274_20260509_F_0000.csv
+NonIndexed Size : 4524 bytes
+Indexed Size    : 6973 bytes
+Difference       : -2449 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01275_20260509_F_0000.csv
+NonIndexed Size : 5623 bytes
+Indexed Size    : 8767 bytes
+Difference       : -3144 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01276_20260509_F_0000.csv
+NonIndexed Size : 22987 bytes
+Indexed Size    : 730531 bytes
+Difference       : -707544 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01277_20260509_F_0000.csv
+NonIndexed Size : 11571 bytes
+Indexed Size    : 25208 bytes
+Difference       : -13637 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01278_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01279_20260509_F_0000.csv
+NonIndexed Size : 45594 bytes
+Indexed Size    : 977544 bytes
+Difference       : -931950 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01280_20260509_F_0000.csv
+NonIndexed Size : 23975 bytes
+Indexed Size    : 55311 bytes
+Difference       : -31336 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01281_20260509_F_0000.csv
+NonIndexed Size : 1350 bytes
+Indexed Size    : 1580 bytes
+Difference       : -230 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01282_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01283_20260509_F_0000.csv
+NonIndexed Size : 7953 bytes
+Indexed Size    : 15439 bytes
+Difference       : -7486 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01284_20260509_F_0000.csv
+NonIndexed Size : 5981 bytes
+Indexed Size    : 12661 bytes
+Difference       : -6680 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01285_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01286_20260509_F_0000.csv
+NonIndexed Size : 810 bytes
+Indexed Size    : 1714 bytes
+Difference       : -904 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01287_20260509_F_0000.csv
+NonIndexed Size : 9257 bytes
+Indexed Size    : 18216 bytes
+Difference       : -8959 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01288_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01290_20260509_F_0000.csv
+NonIndexed Size : 839 bytes
+Indexed Size    : 953 bytes
+Difference       : -114 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01291_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01292_20260509_F_0000.csv
+NonIndexed Size : 3746 bytes
+Indexed Size    : 9428 bytes
+Difference       : -5682 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01293_20260509_F_0000.csv
+NonIndexed Size : 2567 bytes
+Indexed Size    : 3936 bytes
+Difference       : -1369 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01294_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01295_20260509_F_0000.csv
+NonIndexed Size : 1694 bytes
+Indexed Size    : 3953 bytes
+Difference       : -2259 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01296_20260509_F_0000.csv
+NonIndexed Size : 4786 bytes
+Indexed Size    : 21494 bytes
+Difference       : -16708 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01297_20260509_F_0000.csv
+NonIndexed Size : 4616 bytes
+Indexed Size    : 6435 bytes
+Difference       : -1819 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01302_20260509_F_0000.csv
+NonIndexed Size : 1242 bytes
+Indexed Size    : 1356 bytes
+Difference       : -114 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01303_20260509_F_0000.csv
+NonIndexed Size : 5312 bytes
+Indexed Size    : 9981 bytes
+Difference       : -4669 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01305_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01307_20260509_F_0000.csv
+NonIndexed Size : 6444 bytes
+Indexed Size    : 249858 bytes
+Difference       : -243414 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01308_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01310_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01311_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01312_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01313_20260509_F_0000.csv
+NonIndexed Size : 1010 bytes
+Indexed Size    : 1239 bytes
+Difference       : -229 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01315_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01317_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01318_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01319_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01321_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_01322_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 685 bytes
+Difference       : -113 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXADA03_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXAGR01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXAGR02_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXBUN03_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXCAR03_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXCAR04_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXCAR05_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXCHI01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXGGI01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXGLE03_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXGOD01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXHEM01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXHIN01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXIND01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXITC01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXJAI01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXLOU02_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXLOU03_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXLUC01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXOLA04_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXPRE01_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXRUC03_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : Margin_NCCL_CO_0_TM_NCDXSHR06_20260509_F_0000.csv
+NonIndexed Size : 572 bytes
+Indexed Size    : 693 bytes
+Difference       : -121 bytes
+
+==================================================
+FILE : NCDEX_MG18_00055_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_00079_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_00109_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_00159_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_00220_09052026.LIS
+NonIndexed Size : 91 bytes
+Indexed Size    : 90 bytes
+Difference       : 1 bytes
+
+==================================================
+FILE : NCDEX_MG18_00264_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_00366_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_00856_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_00908_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_01159_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_01243_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_01247_09052026.LIS
+NonIndexed Size : 92 bytes
+Indexed Size    : 91 bytes
+Difference       : 1 bytes
+
+==================================================
+FILE : NCDEX_MG18_01261_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_01274_09052026.LIS
+NonIndexed Size : 91 bytes
+Indexed Size    : 97 bytes
+Difference       : -6 bytes
+
+==================================================
+FILE : NCDEX_MG18_01280_09052026.LIS
+NonIndexed Size : 140 bytes
+Indexed Size    : 141 bytes
+Difference       : -1 bytes
+
+==================================================
+FILE : NCDEX_MG18_01282_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_01287_09052026.LIS
+NonIndexed Size : 3219 bytes
+Indexed Size    : 3227 bytes
+Difference       : -8 bytes
+
+==================================================
+FILE : NCDEX_MG18_01292_09052026.LIS
+NonIndexed Size : 124 bytes
+Indexed Size    : 122 bytes
+Difference       : 2 bytes
+
+==================================================
+FILE : NCDEX_MG18_01308_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_01310_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_01312_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_01315_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_01317_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG18_01318_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 79 bytes
+Difference       : -79 bytes
+
+==================================================
+FILE : NCDEX_MG19_00002_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00021_09052026.LIS
+NonIndexed Size : 15470 bytes
+Indexed Size    : 15942 bytes
+Difference       : -472 bytes
+
+==================================================
+FILE : NCDEX_MG19_00039_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00049_09052026.LIS
+NonIndexed Size : 597 bytes
+Indexed Size    : 703 bytes
+Difference       : -106 bytes
+
+==================================================
+FILE : NCDEX_MG19_00055_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00079_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00109_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00146_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 104 bytes
+Difference       : -104 bytes
+
+==================================================
+FILE : NCDEX_MG19_00155_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00159_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00210_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00220_09052026.LIS
+NonIndexed Size : 105752 bytes
+Indexed Size    : 105751 bytes
+Difference       : 1 bytes
+
+==================================================
+FILE : NCDEX_MG19_00264_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00362_09052026.LIS
+NonIndexed Size : 558 bytes
+Indexed Size    : 660 bytes
+Difference       : -102 bytes
+
+==================================================
+FILE : NCDEX_MG19_00366_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00523_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 98 bytes
+Difference       : -98 bytes
+
+==================================================
+FILE : NCDEX_MG19_00534_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00738_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00856_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_00908_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01159_09052026.LIS
+NonIndexed Size : 152 bytes
+Indexed Size    : 244 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01235_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01236_09052026.LIS
+NonIndexed Size : 176 bytes
+Indexed Size    : 178 bytes
+Difference       : -2 bytes
+
+==================================================
+FILE : NCDEX_MG19_01243_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01247_09052026.LIS
+NonIndexed Size : 547 bytes
+Indexed Size    : 546 bytes
+Difference       : 1 bytes
+
+==================================================
+FILE : NCDEX_MG19_01252_09052026.LIS
+NonIndexed Size : 26577 bytes
+Indexed Size    : 26675 bytes
+Difference       : -98 bytes
+
+==================================================
+FILE : NCDEX_MG19_01261_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01262_09052026.LIS
+NonIndexed Size : 13647 bytes
+Indexed Size    : 13965 bytes
+Difference       : -318 bytes
+
+==================================================
+FILE : NCDEX_MG19_01272_09052026.LIS
+NonIndexed Size : 2122 bytes
+Indexed Size    : 2128 bytes
+Difference       : -6 bytes
+
+==================================================
+FILE : NCDEX_MG19_01274_09052026.LIS
+NonIndexed Size : 3461 bytes
+Indexed Size    : 3467 bytes
+Difference       : -6 bytes
+
+==================================================
+FILE : NCDEX_MG19_01279_09052026.LIS
+NonIndexed Size : 9554 bytes
+Indexed Size    : 183310 bytes
+Difference       : -173756 bytes
+
+==================================================
+FILE : NCDEX_MG19_01280_09052026.LIS
+NonIndexed Size : 17172 bytes
+Indexed Size    : 17173 bytes
+Difference       : -1 bytes
+
+==================================================
+FILE : NCDEX_MG19_01282_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01292_09052026.LIS
+NonIndexed Size : 2821 bytes
+Indexed Size    : 2913 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01303_09052026.LIS
+NonIndexed Size : 4071 bytes
+Indexed Size    : 4164 bytes
+Difference       : -93 bytes
+
+==================================================
+FILE : NCDEX_MG19_01308_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01310_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01312_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01315_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01317_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG19_01318_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 92 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG20_01268_09052026.LIS
+NonIndexed Size : 325 bytes
+Indexed Size    : 326 bytes
+Difference       : -1 bytes
+
+==================================================
+FILE : NCDEX_MG20_01287_09052026.LIS
+NonIndexed Size : 3209 bytes
+Indexed Size    : 3210 bytes
+Difference       : -1 bytes
+
+==================================================
+FILE : NCDEX_MG20_01309_09052026.LIS
+NonIndexed Size : 1332 bytes
+Indexed Size    : 1331 bytes
+Difference       : 1 bytes
+
+==================================================
+FILE : NCDEX_MG22_00471_09052026.LIS
+NonIndexed Size : 79 bytes
+Indexed Size    : 81 bytes
+Difference       : -2 bytes
+
+==================================================
+FILE : NCDEX_MG22_01245_09052026.LIS
+NonIndexed Size : 65 bytes
+Indexed Size    : 63 bytes
+Difference       : 2 bytes
+
+==================================================
+FILE : NCDEX_MG23_00002_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00008_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00011_09052026.LIS
+NonIndexed Size : 7811 bytes
+Indexed Size    : 9694 bytes
+Difference       : -1883 bytes
+
+==================================================
+FILE : NCDEX_MG23_00015_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00016_09052026.LIS
+NonIndexed Size : 222 bytes
+Indexed Size    : 267 bytes
+Difference       : -45 bytes
+
+==================================================
+FILE : NCDEX_MG23_00021_09052026.LIS
+NonIndexed Size : 10151 bytes
+Indexed Size    : 29268 bytes
+Difference       : -19117 bytes
+
+==================================================
+FILE : NCDEX_MG23_00024_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00031_09052026.LIS
+NonIndexed Size : 122 bytes
+Indexed Size    : 210 bytes
+Difference       : -88 bytes
+
+==================================================
+FILE : NCDEX_MG23_00039_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00049_09052026.LIS
+NonIndexed Size : 307 bytes
+Indexed Size    : 351 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00055_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00067_09052026.LIS
+NonIndexed Size : 4621 bytes
+Indexed Size    : 11574 bytes
+Difference       : -6953 bytes
+
+==================================================
+FILE : NCDEX_MG23_00068_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 220 bytes
+Difference       : -220 bytes
+
+==================================================
+FILE : NCDEX_MG23_00071_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00078_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00079_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00080_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00092_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00094_09052026.LIS
+NonIndexed Size : 1297 bytes
+Indexed Size    : 4540 bytes
+Difference       : -3243 bytes
+
+==================================================
+FILE : NCDEX_MG23_00109_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00130_09052026.LIS
+NonIndexed Size : 208 bytes
+Indexed Size    : 296 bytes
+Difference       : -88 bytes
+
+==================================================
+FILE : NCDEX_MG23_00135_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00142_09052026.LIS
+NonIndexed Size : 855 bytes
+Indexed Size    : 1592 bytes
+Difference       : -737 bytes
+
+==================================================
+FILE : NCDEX_MG23_00146_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00147_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00150_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00155_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00158_09052026.LIS
+NonIndexed Size : 151 bytes
+Indexed Size    : 609 bytes
+Difference       : -458 bytes
+
+==================================================
+FILE : NCDEX_MG23_00159_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00168_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00170_09052026.LIS
+NonIndexed Size : 78 bytes
+Indexed Size    : 170 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG23_00171_09052026.LIS
+NonIndexed Size : 558 bytes
+Indexed Size    : 1473 bytes
+Difference       : -915 bytes
+
+==================================================
+FILE : NCDEX_MG23_00189_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00191_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00210_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00220_09052026.LIS
+NonIndexed Size : 57930 bytes
+Indexed Size    : 218570 bytes
+Difference       : -160640 bytes
+
+==================================================
+FILE : NCDEX_MG23_00221_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00236_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00258_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00264_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00279_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00285_09052026.LIS
+NonIndexed Size : 64 bytes
+Indexed Size    : 365 bytes
+Difference       : -301 bytes
+
+==================================================
+FILE : NCDEX_MG23_00298_09052026.LIS
+NonIndexed Size : 44 bytes
+Indexed Size    : 1185 bytes
+Difference       : -1141 bytes
+
+==================================================
+FILE : NCDEX_MG23_00306_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00316_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00332_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00333_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00335_09052026.LIS
+NonIndexed Size : 482 bytes
+Indexed Size    : 960 bytes
+Difference       : -478 bytes
+
+==================================================
+FILE : NCDEX_MG23_00348_09052026.LIS
+NonIndexed Size : 410 bytes
+Indexed Size    : 635 bytes
+Difference       : -225 bytes
+
+==================================================
+FILE : NCDEX_MG23_00358_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00360_09052026.LIS
+NonIndexed Size : 310 bytes
+Indexed Size    : 440 bytes
+Difference       : -130 bytes
+
+==================================================
+FILE : NCDEX_MG23_00362_09052026.LIS
+NonIndexed Size : 472 bytes
+Indexed Size    : 516 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00366_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00374_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00376_09052026.LIS
+NonIndexed Size : 1393 bytes
+Indexed Size    : 4430 bytes
+Difference       : -3037 bytes
+
+==================================================
+FILE : NCDEX_MG23_00384_09052026.LIS
+NonIndexed Size : 204 bytes
+Indexed Size    : 372 bytes
+Difference       : -168 bytes
+
+==================================================
+FILE : NCDEX_MG23_00397_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00441_09052026.LIS
+NonIndexed Size : 61 bytes
+Indexed Size    : 151 bytes
+Difference       : -90 bytes
+
+==================================================
+FILE : NCDEX_MG23_00448_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00452_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00470_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00471_09052026.LIS
+NonIndexed Size : 13163 bytes
+Indexed Size    : 26922 bytes
+Difference       : -13759 bytes
+
+==================================================
+FILE : NCDEX_MG23_00485_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00487_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00488_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00493_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00494_09052026.LIS
+NonIndexed Size : 148 bytes
+Indexed Size    : 510 bytes
+Difference       : -362 bytes
+
+==================================================
+FILE : NCDEX_MG23_00523_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00533_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00534_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00536_09052026.LIS
+NonIndexed Size : 210 bytes
+Indexed Size    : 512 bytes
+Difference       : -302 bytes
+
+==================================================
+FILE : NCDEX_MG23_00545_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00547_09052026.LIS
+NonIndexed Size : 104 bytes
+Indexed Size    : 462 bytes
+Difference       : -358 bytes
+
+==================================================
+FILE : NCDEX_MG23_00575_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00598_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00622_09052026.LIS
+NonIndexed Size : 402 bytes
+Indexed Size    : 619 bytes
+Difference       : -217 bytes
+
+==================================================
+FILE : NCDEX_MG23_00636_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00647_09052026.LIS
+NonIndexed Size : 7237 bytes
+Indexed Size    : 35371 bytes
+Difference       : -28134 bytes
+
+==================================================
+FILE : NCDEX_MG23_00657_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00680_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00690_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00712_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00738_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00784_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00785_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00825_09052026.LIS
+NonIndexed Size : 258 bytes
+Indexed Size    : 430 bytes
+Difference       : -172 bytes
+
+==================================================
+FILE : NCDEX_MG23_00834_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00844_09052026.LIS
+NonIndexed Size : 7162 bytes
+Indexed Size    : 17791 bytes
+Difference       : -10629 bytes
+
+==================================================
+FILE : NCDEX_MG23_00849_09052026.LIS
+NonIndexed Size : 138 bytes
+Indexed Size    : 275 bytes
+Difference       : -137 bytes
+
+==================================================
+FILE : NCDEX_MG23_00856_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00893_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00902_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00908_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00920_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00921_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00922_09052026.LIS
+NonIndexed Size : 44 bytes
+Indexed Size    : 179 bytes
+Difference       : -135 bytes
+
+==================================================
+FILE : NCDEX_MG23_00951_09052026.LIS
+NonIndexed Size : 1035 bytes
+Indexed Size    : 4024 bytes
+Difference       : -2989 bytes
+
+==================================================
+FILE : NCDEX_MG23_00967_09052026.LIS
+NonIndexed Size : 312 bytes
+Indexed Size    : 445 bytes
+Difference       : -133 bytes
+
+==================================================
+FILE : NCDEX_MG23_00968_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_00980_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01002_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 90 bytes
+Difference       : -90 bytes
+
+==================================================
+FILE : NCDEX_MG23_01006_09052026.LIS
+NonIndexed Size : 4344 bytes
+Indexed Size    : 9847 bytes
+Difference       : -5503 bytes
+
+==================================================
+FILE : NCDEX_MG23_01007_09052026.LIS
+NonIndexed Size : 3542 bytes
+Indexed Size    : 8023 bytes
+Difference       : -4481 bytes
+
+==================================================
+FILE : NCDEX_MG23_01020_09052026.LIS
+NonIndexed Size : 44 bytes
+Indexed Size    : 87 bytes
+Difference       : -43 bytes
+
+==================================================
+FILE : NCDEX_MG23_01030_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01043_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01052_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01060_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01062_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01068_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01085_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01108_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01148_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01149_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01152_09052026.LIS
+NonIndexed Size : 572 bytes
+Indexed Size    : 1073 bytes
+Difference       : -501 bytes
+
+==================================================
+FILE : NCDEX_MG23_01153_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01154_09052026.LIS
+NonIndexed Size : 110 bytes
+Indexed Size    : 196 bytes
+Difference       : -86 bytes
+
+==================================================
+FILE : NCDEX_MG23_01159_09052026.LIS
+NonIndexed Size : 70 bytes
+Indexed Size    : 114 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01208_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01233_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01235_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01238_09052026.LIS
+NonIndexed Size : 1282 bytes
+Indexed Size    : 7499 bytes
+Difference       : -6217 bytes
+
+==================================================
+FILE : NCDEX_MG23_01239_09052026.LIS
+NonIndexed Size : 291 bytes
+Indexed Size    : 526 bytes
+Difference       : -235 bytes
+
+==================================================
+FILE : NCDEX_MG23_01240_09052026.LIS
+NonIndexed Size : 36847 bytes
+Indexed Size    : 618482 bytes
+Difference       : -581635 bytes
+
+==================================================
+FILE : NCDEX_MG23_01241_09052026.LIS
+NonIndexed Size : 3308 bytes
+Indexed Size    : 9042 bytes
+Difference       : -5734 bytes
+
+==================================================
+FILE : NCDEX_MG23_01243_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 4279 bytes
+Difference       : -4279 bytes
+
+==================================================
+FILE : NCDEX_MG23_01245_09052026.LIS
+NonIndexed Size : 67 bytes
+Indexed Size    : 65 bytes
+Difference       : 2 bytes
+
+==================================================
+FILE : NCDEX_MG23_01246_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01249_09052026.LIS
+NonIndexed Size : 15415 bytes
+Indexed Size    : 39102 bytes
+Difference       : -23687 bytes
+
+==================================================
+FILE : NCDEX_MG23_0124ALP01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_0124NEO01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_0124PAC01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_0124PER01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_0124PLU01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_0124TAT02_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_0124TAT03_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_0124TAT04_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_01252_09052026.LIS
+NonIndexed Size : 13036 bytes
+Indexed Size    : 27645 bytes
+Difference       : -14609 bytes
+
+==================================================
+FILE : NCDEX_MG23_01253_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01255_09052026.LIS
+NonIndexed Size : 2262 bytes
+Indexed Size    : 3639 bytes
+Difference       : -1377 bytes
+
+==================================================
+FILE : NCDEX_MG23_01256_09052026.LIS
+NonIndexed Size : 405 bytes
+Indexed Size    : 671 bytes
+Difference       : -266 bytes
+
+==================================================
+FILE : NCDEX_MG23_01259_09052026.LIS
+NonIndexed Size : 44 bytes
+Indexed Size    : 2804 bytes
+Difference       : -2760 bytes
+
+==================================================
+FILE : NCDEX_MG23_01261_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01262_09052026.LIS
+NonIndexed Size : 6377 bytes
+Indexed Size    : 24999 bytes
+Difference       : -18622 bytes
+
+==================================================
+FILE : NCDEX_MG23_01265_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01266_09052026.LIS
+NonIndexed Size : 90 bytes
+Indexed Size    : 137 bytes
+Difference       : -47 bytes
+
+==================================================
+FILE : NCDEX_MG23_01267_09052026.LIS
+NonIndexed Size : 5248 bytes
+Indexed Size    : 10334 bytes
+Difference       : -5086 bytes
+
+==================================================
+FILE : NCDEX_MG23_01268_09052026.LIS
+NonIndexed Size : 11552 bytes
+Indexed Size    : 93204 bytes
+Difference       : -81652 bytes
+
+==================================================
+FILE : NCDEX_MG23_01269_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01270_09052026.LIS
+NonIndexed Size : 533 bytes
+Indexed Size    : 574 bytes
+Difference       : -41 bytes
+
+==================================================
+FILE : NCDEX_MG23_01271_09052026.LIS
+NonIndexed Size : 622 bytes
+Indexed Size    : 1199 bytes
+Difference       : -577 bytes
+
+==================================================
+FILE : NCDEX_MG23_01272_09052026.LIS
+NonIndexed Size : 1193 bytes
+Indexed Size    : 3139 bytes
+Difference       : -1946 bytes
+
+==================================================
+FILE : NCDEX_MG23_01274_09052026.LIS
+NonIndexed Size : 1618 bytes
+Indexed Size    : 2618 bytes
+Difference       : -1000 bytes
+
+==================================================
+FILE : NCDEX_MG23_01275_09052026.LIS
+NonIndexed Size : 1956 bytes
+Indexed Size    : 3168 bytes
+Difference       : -1212 bytes
+
+==================================================
+FILE : NCDEX_MG23_01276_09052026.LIS
+NonIndexed Size : 8815 bytes
+Indexed Size    : 288628 bytes
+Difference       : -279813 bytes
+
+==================================================
+FILE : NCDEX_MG23_01277_09052026.LIS
+NonIndexed Size : 4311 bytes
+Indexed Size    : 9668 bytes
+Difference       : -5357 bytes
+
+==================================================
+FILE : NCDEX_MG23_01278_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01279_09052026.LIS
+NonIndexed Size : 18227 bytes
+Indexed Size    : 395831 bytes
+Difference       : -377604 bytes
+
+==================================================
+FILE : NCDEX_MG23_01280_09052026.LIS
+NonIndexed Size : 9277 bytes
+Indexed Size    : 21707 bytes
+Difference       : -12430 bytes
+
+==================================================
+FILE : NCDEX_MG23_01281_09052026.LIS
+NonIndexed Size : 315 bytes
+Indexed Size    : 407 bytes
+Difference       : -92 bytes
+
+==================================================
+FILE : NCDEX_MG23_01282_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01283_09052026.LIS
+NonIndexed Size : 2943 bytes
+Indexed Size    : 5944 bytes
+Difference       : -3001 bytes
+
+==================================================
+FILE : NCDEX_MG23_01284_09052026.LIS
+NonIndexed Size : 2124 bytes
+Indexed Size    : 4733 bytes
+Difference       : -2609 bytes
+
+==================================================
+FILE : NCDEX_MG23_01285_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01286_09052026.LIS
+NonIndexed Size : 89 bytes
+Indexed Size    : 441 bytes
+Difference       : -352 bytes
+
+==================================================
+FILE : NCDEX_MG23_01287_09052026.LIS
+NonIndexed Size : 3457 bytes
+Indexed Size    : 7034 bytes
+Difference       : -3577 bytes
+
+==================================================
+FILE : NCDEX_MG23_01288_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01290_09052026.LIS
+NonIndexed Size : 106 bytes
+Indexed Size    : 151 bytes
+Difference       : -45 bytes
+
+==================================================
+FILE : NCDEX_MG23_01291_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01292_09052026.LIS
+NonIndexed Size : 1279 bytes
+Indexed Size    : 3580 bytes
+Difference       : -2301 bytes
+
+==================================================
+FILE : NCDEX_MG23_01293_09052026.LIS
+NonIndexed Size : 785 bytes
+Indexed Size    : 1326 bytes
+Difference       : -541 bytes
+
+==================================================
+FILE : NCDEX_MG23_01294_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01295_09052026.LIS
+NonIndexed Size : 432 bytes
+Indexed Size    : 1311 bytes
+Difference       : -879 bytes
+
+==================================================
+FILE : NCDEX_MG23_01296_09052026.LIS
+NonIndexed Size : 1661 bytes
+Indexed Size    : 8295 bytes
+Difference       : -6634 bytes
+
+==================================================
+FILE : NCDEX_MG23_01297_09052026.LIS
+NonIndexed Size : 1591 bytes
+Indexed Size    : 2306 bytes
+Difference       : -715 bytes
+
+==================================================
+FILE : NCDEX_MG23_01302_09052026.LIS
+NonIndexed Size : 259 bytes
+Indexed Size    : 304 bytes
+Difference       : -45 bytes
+
+==================================================
+FILE : NCDEX_MG23_01303_09052026.LIS
+NonIndexed Size : 1885 bytes
+Indexed Size    : 3725 bytes
+Difference       : -1840 bytes
+
+==================================================
+FILE : NCDEX_MG23_01305_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01307_09052026.LIS
+NonIndexed Size : 2300 bytes
+Indexed Size    : 100193 bytes
+Difference       : -97893 bytes
+
+==================================================
+FILE : NCDEX_MG23_01308_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01310_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01311_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01312_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01313_09052026.LIS
+NonIndexed Size : 172 bytes
+Indexed Size    : 263 bytes
+Difference       : -91 bytes
+
+==================================================
+FILE : NCDEX_MG23_01315_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01317_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01318_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01319_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01321_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_01322_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 44 bytes
+Difference       : -44 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXADA03_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXAGR01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXAGR02_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXBUN03_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXCAR03_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXCAR04_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXCAR05_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXCHI01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXGGI01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXGLE03_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXGOD01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXHEM01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXHIN01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXIND01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXITC01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXJAI01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXLOU02_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXLOU03_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXLUC01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXOLA04_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXPRE01_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXRUC03_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : NCDEX_MG23_NCDXSHR06_09052026.LIS
+NonIndexed Size : 0 bytes
+Indexed Size    : 48 bytes
+Difference       : -48 bytes
+
+==================================================
+FILE : SURV_STL_20260509.DAT
+NonIndexed Size : 283991 bytes
+Indexed Size    : 283976 bytes
+Difference       : 15 bytes
+

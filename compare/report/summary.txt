@@ -1,0 +1,71 @@
+==================================================
+OUTPUT COMPARISON REPORT
+==================================================
+
+Indexed Folder File Count     : 1420
+NonIndexed Folder File Count  : 1426
+
+==================================================
+STEP 2 : Missing File Analysis
+==================================================
+Missing in Indexed Folder     : 7
+Missing in NonIndexed Folder  : 1
+
+==================================================
+STEP 3 : File Size Analysis
+==================================================
+Same Size Files         : 825
+Size Mismatch Files     : 594
+
+==================================================
+STEP 4 : Detailed Content Comparison
+==================================================
+Fully Matched Files     : 780
+Content Mismatch Files  : 639
+
+==================================================
+POSSIBLE ROOT CAUSES AFTER INDEXING
+==================================================
+
+1. Query execution plan changed
+   - FULL TABLE SCAN -> INDEX RANGE SCAN
+
+2. Wrong composite index order
+
+3. Missing leading column usage
+
+4. Stale optimizer statistics
+
+5. TRIM / UPPER / NVL usage bypassing index
+
+6. Trailing spaces in character columns
+
+7. Row order dependency in application logic
+
+8. Duplicate elimination due to indexed access path
+
+9. Nested loop join chosen after indexing
+
+10. Cursor fetch sequence changed
+
+11. Partial commits / transaction visibility issue
+
+12. Legacy Pro*C code relying on implicit row ordering
+
+13. Parallel execution timing differences
+
+14. Index corruption or unusable index
+
+15. Missing rows due to join condition optimization
+
+
+==================================================
+ANALYSIS COMPLETED
+==================================================
+
+Generated Reports:
+/home/codespace/compare/report/summary.txt
+/home/codespace/compare/report/missing_files.txt
+/home/codespace/compare/report/size_mismatch.txt
+/home/codespace/compare/report/content_mismatch.txt
+/home/codespace/compare/report/matched_files.txt
